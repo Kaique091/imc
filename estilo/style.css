@@ -147,3 +147,9 @@ padding: 0.6rem 1rem;
 .attention{
     color: #dc2626;
 }
+
+@media screen and (max-width: 1024){
+    #img {
+        display: none;
+    }
+}
